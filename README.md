@@ -241,4 +241,4 @@ This repository serves as the official landing page for Process Hacker. The soft
 **Get the most recent version of Process Hacker today!**
 
 ---
-**Last updated:** 2026-10-30 15:37:13 UTC
+**Last updated:** 2026-10-30 20:27:43 UTC
